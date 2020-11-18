@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# 1、安装 staruml
+![image](https://wx1.sinaimg.cn/mw690/007l0UfEgy1gktn26jltmj301y02c0sl.jpg)
+![image](https://wx3.sinaimg.cn/mw690/007l0UfEgy1gktn3wr5jij30ci09omy9.jpg)
 
-You can use the [editor on GitHub](https://github.com/huqingyang-GitHub-io/huqingyang20182123063/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 2、注册 github 账号
+![image](https://wx3.sinaimg.cn/mw690/007l0UfEgy1gktn8clhopj30ci0510te.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 3、进行小组分组，4 至 5 名同学一组（可以自由组合）每个小组 成员建立个人数据仓库，以姓名拼音加学号命名。学习网站 Repositories(仓库)项目代码托管功能（如上传文件，搜索仓库文件， 下载等）
+![image](https://wx2.sinaimg.cn/mw690/007l0UfEgy1gktnbh93n9j30ci04st98.jpg)
 
-### Markdown
+#### 4、使用 staruml 建立 Repositories(仓库)项目代码托管各种功能用例的用例图模型
+![image](https://wx1.sinaimg.cn/mw690/007l0UfEgy1gktnn6900mj309q08fmy4.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### 5、对照网站和 UML 用例图，写一份用例图说明，描述该用例图 的参与者，元素，关系，可以加上建模思路
+![image](https://wx1.sinaimg.cn/mw690/007l0UfEgy1gktnprdkewj306y025glj.jpg)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huqingyang-GitHub-io/huqingyang20182123063/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###### 6、在 github 创建一个个人博客，将上述过程记录在博客中
+![image](https://wx4.sinaimg.cn/mw690/007l0UfEgy1gktnsnyh9jj30ci05a74s.jpg)
