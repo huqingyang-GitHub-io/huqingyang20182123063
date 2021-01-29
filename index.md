@@ -1,5 +1,8 @@
 # 1、通过分析github网站应用，使用staruml建立以下3个系统功能的顺序图和活动图模型。这3个功能分别是：（1）Repositories(仓库)项目代码托管功能；（2）版本管理功能；（3）代码查找功能。
-![image](https://wx3.sinaimg.cn/mw690/007l0UfEgy1gktn8clhopj30ci0510te.jpg)
+
+![image](https://github.com/huqingyang20182123063/huqingyang20182123063/blob/main/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B92/YP%40%7BSV5_13GZ~JJ%604ZPCGBC.png)
+
+![image](https://github.com/huqingyang20182123063/huqingyang20182123063/blob/main/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B92/B6%40)3_%7BH%24US%7D_5_Y%25U3E2KU.png)
 
 ## 2、对照UML顺序图和活动图，写一份建模说明，描述该系统功能的详细业务流程，请加上建模思路。
 
@@ -10,4 +13,3 @@
 活动图：用户开始后进行注册或者登录，登录账号后，新建仓库，然后创建文件，并编辑代码文件，再上传至仓库就可以完成仓库项目代码托管功能。若新建仓库后，创建项目复制克隆多人开发和变化记录，在发起请求经过系统的审核处理，对方提出，错误用户在进行错误的修改，就可以设置为同步仓库，可以实现代码合并，版本更新，这是版本管理功能。如果用户登陆帐号后，直接搜索代码代码查找成功，就可以完成代码查找功能。
 
 ### 3、使用之前在github创建的个人博客，将上述过程记录在博客中。
-![image](https://wx2.sinaimg.cn/mw690/007l0UfEgy1gktnbh93n9j30ci04st98.jpg)
